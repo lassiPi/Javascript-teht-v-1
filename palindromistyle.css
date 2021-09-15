@@ -1,0 +1,23 @@
+body {
+  background: rgb(68, 102, 65);
+  color: rgb(255, 255, 255);
+  font-family: garamond, serif;
+  line-height: 1.4em;
+}
+
+#laatikko {
+  background: rgb(27, 41, 25);
+  padding: 10px;
+  width: 310px;
+  padding-left: 100px;
+  margin: 50px auto;
+}
+
+#teksti {
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+#palindromipainike {
+  margin-bottom: 10px;
+}
